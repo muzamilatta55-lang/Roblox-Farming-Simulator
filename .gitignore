@@ -1,0 +1,12 @@
+# Roblox Studio backups
+*.rbxl.lock
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp
